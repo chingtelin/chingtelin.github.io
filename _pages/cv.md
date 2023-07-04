@@ -11,30 +11,30 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D. in Mechanical Engineering, California Institute of Technology, 2023 - Present
+* M.S. in Mechanical Engineering, National Taiwan University, 2021 - 2023
+* B.S. in Mechanical Engineering, National Taiwan University, 2017 - 2021
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Research Assistant: Spring 2021 - Spring 2023
+  * National Taiwan University
+  * Duties included: Develop Floquet-based Resolvent analysis and corresponding control schemes
+  * Supervisor: Dr. Hsieh-Chen Tsai
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Teaching Assistant: Fall 2021 - Spring 2023
+  * National Taiwan University
+  * Courses: Engineering Mathematics (1) & (2), Fluid Mechanics, Advanced Thermodynamics
+  * Supervisor: Dr. Hsieh-Chen Tsai & Dr. I-Fan Lin
+* Summer Intern: July 2020 - Aug. 2020
+  * CoreTech System Co., Ltd. (Moldex3D)
+  * Performed plastic injection molding simulation via Moldex3D
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming Language: FORTRAN, MATLAB, Python, C++
+* Computer-Aid Design Software: SolidWorks, Autodesk, Inventor, AutoCAD
+* Language: Mandarin (Native), English (Advanced), German (Beginner, B1-level courses)
 
 Publications
 ======
@@ -42,18 +42,7 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
+    
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Co-lead a team of 8 members to design brake, steering and suspension systems for a racing car
