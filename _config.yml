@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Ching-Te Lin"
-  avatar           : "my-profile.jpg"
+  avatar           : "my_profile.jpg"
   bio              : "An enthusiastic PhD student in fluid dynamics"
   location         : "Taipei/Taiwan"
   employer         :
