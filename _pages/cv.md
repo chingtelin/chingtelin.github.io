@@ -19,7 +19,7 @@ Work experience
 ======
 * Research Assistant: Spring 2021 - Spring 2023
   * National Taiwan University
-  * Duties included: Develop Floquet-based Resolvent analysis and corresponding control schemes
+  * Duties included: Developed Floquet-based Resolvent analysis and corresponding control schemes
   * Supervisor: Dr. Hsieh-Chen Tsai
 
 * Teaching Assistant: Fall 2021 - Spring 2023
@@ -45,4 +45,8 @@ Publications
     
 Service and leadership
 ======
-* Co-lead a team of 8 members to design brake, steering and suspension systems for a racing car
+* NTU Racing Team
+  * Co-lead a team of 8 members to design brake, steering and suspension systems for a racing car
+* Volunteer Tutor
+  * Green Tree Club @NTU
+  * Provided educational support to disadvantaged students in Taipei.
