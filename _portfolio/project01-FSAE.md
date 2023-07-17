@@ -1,6 +1,6 @@
 ---
 title: "Formula SAE"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/fsae_pic.jpg'>"
+excerpt: "Short description of portfolio item number 1<br/><img src='/images/fsae_pic.jpeg'>"
 collection: portfolio
 ---
 
