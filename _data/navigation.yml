@@ -17,7 +17,7 @@ main:
     
   - title: "CV"
     #url: /cv/
-    url: 'https://chingtelin.github.io/files/CV_chingte_lin.pdf'
+    url: <a href='https://chingtelin.github.io/files/CV_chingte_lin.pdf' target="_blank"></a>
     #url: <a href='https://github.com/chingtelin/chingtelin.github.io/blob/master/files/CV_chingte_lin.pdf'></a>
   # - title: "Guide"
   #   url: /markdown/
