@@ -13,9 +13,9 @@ author_profile: true
 
 ## 2023
 ---
-- **Flow control of a plunging cylinder based on resolvent analysis**
-  ==Journal Article==
-  Ching-Te Lin, Min-Lin Tsai, Hsieh-Chen Tsai
-  *Journal of Fluid Mechanics*, 967, A41. [Read More] (https://doi:10.1017/jfm.2023.526 "")
+- **Flow control of a plunging cylinder based on resolvent analysis**  
+  <div style="background-color: #006400">Journal Article</div> 
+  Ching-Te Lin, Min-Lin Tsai, Hsieh-Chen Tsai  
+  *Journal of Fluid Mechanics*, 967, A41. [Read More](https://doi:10.1017/jfm.2023.526 "")
   
 
