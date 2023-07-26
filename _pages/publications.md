@@ -14,7 +14,7 @@ author_profile: true
 ## 2023
 ---
 - **Flow control of a plunging cylinder based on resolvent analysis**
-  <div align="right">
+<div align="right">
     <span style="border-radius: 10px; background-color: #006400; color: #FAFAFA; padding: 8px;align: right;">Journal Article</span>
   </div>  
   Ching-Te Lin, Min-Lin Tsai, Hsieh-Chen Tsai  
