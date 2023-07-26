@@ -11,11 +11,11 @@ author_profile: true
 
 {% include base_path %}
 
-<!-- _pages/publications.md -->
-<div class="publications">
-
-{% bibliography -f {{ site.scholar.bibliography }} %}
-
-</div>
+## 2023
+---
+- **Flow control of a plunging cylinder based on resolvent analysis**
+  ### <i class="fab fa-gitlab fa-fw" style="color:rgb(107,79,187); font-size:.85em" aria-hidden="true"></i> Purple GitLab Tanuki 
+  Ching-Te Lin, Min-Lin Tsai, Hsieh-Chen Tsai  
+  *Journal of Fluid Mechanics*, 967, A41. [Read More](https://doi:10.1017/jfm.2023.526 "")
   
 
