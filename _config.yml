@@ -86,7 +86,7 @@ author:
   location         : "Taipei/Taiwan"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : #"http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com.tw/citations?user=HBm98lIAAAAJ&hl=zh-TW&oi=sra"
   email            : "r10522108@ntu.edu.tw"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
