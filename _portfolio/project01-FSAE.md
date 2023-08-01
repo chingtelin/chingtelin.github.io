@@ -4,5 +4,7 @@ excerpt: "Formula SAE electrical vehicle 1<br/><img src='/images/fsae_pic.jpeg' 
 collection: portfolio
 ---
 
-NTU Racing Team was founded by me and my classmates in my sophomore year to participate in the FSAE competition in Japan, which is an American Society of Automotive Engineers (ASAE) Formula Student competition to encourage college students to use their knowledge to build and assemble a kart. Therefore, we will not only plan and design the frame, power, electric system, and chassis system independently, but also look for some key component partners.
-In the first year, I was charged for the brake system. I had to design a pedal box to meet the braking system requirement for a 300-kg racing car. In the second year, I co-lead a team of 6 people to design steering, braking, and suspension system.
+My classmates and I cofounded the first Formula SAE team at National Taiwan University, NTU Racing Team, to apply classroom theories that we had learned to make an electric race car. We aimed to participate in the FSAE competition in Japan, which is an American Society of Automotive Engineers (ASAE) Formula Student competition to encourage college students to use their knowledge to build a 300-kg electrical racing car.  
+In the first year, I was in charge of designing the pedal box to provide 
+
+
