@@ -1,6 +1,6 @@
 ---
 title: "NTU Racing Team"
-excerpt: "Formula SAE electrical vehicle 1<br/><img src='/images/fsae_pic.jpeg' width='400px' height='auto'/>"
+excerpt: "Formula SAE electrical vehicle <p style="text-align:right;">2019-2021</p><br/><img src='/images/fsae_pic.jpeg' width='400px' height='auto'/>"
 collection: portfolio
 ---
 
