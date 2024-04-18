@@ -11,6 +11,15 @@ author_profile: true
 
 {% include base_path %}
 
+## 2024
+---
+- <div style="display: flex; justify-content: space-between;">
+    <div style="text-align: left;font-weight: bold;">Feedback flow control on a plunging circular cylinder</div>
+    <div style="border-radius: 10px; background-color: #006400; color: #FAFAFA; padding: 8px; text-align: right;">Journal Article</div>
+  </div>
+  Ching-Te Lin, Hsieh-Chen Tsai    
+  *Physics of Fluids* 1 April 2024; 36 (4): 047126. <a href="https://doi.org/10.1063/5.0203558" target="_blank">Read More</a>
+
 ## 2023
 ---
 - <div style="display: flex; justify-content: space-between;">
@@ -19,6 +28,7 @@ author_profile: true
   </div>
   Ching-Te Lin, Min-Lin Tsai, Hsieh-Chen Tsai    
   *Journal of Fluid Mechanics*, 967, A41. <a href="https://doi.org/10.1017/jfm.2023.526 " target="_blank">Read More</a>
+  
   
   
 
