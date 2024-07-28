@@ -14,6 +14,12 @@ author_profile: true
 ## 2024
 ---
 - <div style="display: flex; justify-content: space-between;">
+    <div style="text-align: left;font-weight: bold;">Active Control for Turbulent Drag Reduction by Periodic Blowing and Suction</div>
+    <div style="border-radius: 10px; background-color: #006400; color: #FAFAFA; padding: 8px; text-align: right;">Conference</div>
+  </div>
+  Ching-Te Lin, Andres Goza,and H. Jane Bae   
+  *IAA AVIATION 2024 <a href="https://arc.aiaa.org/doi/10.2514/6.2024-3636" target="_blank">Read More</a>
+- <div style="display: flex; justify-content: space-between;">
     <div style="text-align: left;font-weight: bold;">Feedback flow control on a plunging circular cylinder</div>
     <div style="border-radius: 10px; background-color: #006400; color: #FAFAFA; padding: 8px; text-align: right;">Journal Article</div>
   </div>
