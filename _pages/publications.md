@@ -23,7 +23,7 @@ author_profile: true
     <div style="text-align: left;font-weight: bold;">Open-loop active flow control of a periodically moving body based on resolvent analysis</div>
     <div style="border-radius: 10px; background-color: #006400; color: #FAFAFA; padding: 8px; text-align: right;">Conference</div>
   </div>
-  Ching-Te Lin, Min-Lin Tsai, Hsieh-Chen Tsai  
+  Ching-Te Lin, Min-Lin Tsai, Hsieh-Chen Tsai
   Bulletin of the American Physical Society 2024 <a href="https://meetings.aps.org/Meeting/DFD24/Session/J33.4" target="_blank">Read More</a>
 - <div style="display: flex; justify-content: space-between;">
     <div style="text-align: left;font-weight: bold;">Active Control for Turbulent Drag Reduction by Periodic Blowing and Suction</div>
