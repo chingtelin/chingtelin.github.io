@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Ching-Te Lin (林靜得)"
+title                    : "Ching-Te Lin"
 title_separator          : "-"
-name                     : &name "Ching-Te Lin"
+name                     : &name "Ching-Te Lin (林靜得)"
 description              : &description "personal description"
 url                      : https://chingtelin.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
