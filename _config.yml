@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Ching-Te Lin"
 title_separator          : "-"
-name                     : &name "Ching-Te Lin (林靜得)"
+name                     : &name "Ching-Te Lin"
 description              : &description "personal description"
 url                      : https://chingtelin.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Ching-Te Lin"
+  name             : "Ching-Te Lin (林靜得)"
   avatar           : "my_profile.jpg"
   bio              : "An enthusiastic PhD student in fluid dynamics"
   location         : "California/USA"
